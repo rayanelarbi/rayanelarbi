@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rayane Larbi</h1>
 
 <p align="center">
-🎓 IT Student at 42 Nice<br />
+🎓 Computer Engineering Student at 42 Nice<br />
 </p>
 
 ## About Me
