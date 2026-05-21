@@ -20,4 +20,3 @@ Currently working on my final project at 42 🚀
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rayane-larbi-692062274/)
 - 📸 [Instagram](https://www.instagram.com/rayane.2907/)
-- 🎵 [TikTok](https://www.tiktok.com/@rayane.2907)
